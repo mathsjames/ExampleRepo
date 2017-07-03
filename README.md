@@ -16,7 +16,7 @@ This project requires a computer and internet.
 
 ## An Introductory Poem
 
-[This](https://gthub.com/alexandrucioba/examplerepo) is a Repo
+[This](https://github.com/alexandrucioba/examplerepo) is a Repo
 
 It is so good and useful
 
